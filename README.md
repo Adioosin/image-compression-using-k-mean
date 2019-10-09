@@ -1,6 +1,6 @@
-# Image Compression using K-Mean
+# Image Compression using K-Mean Clustering
 
-## This notebook consist of implementation of K-mean algorithm in image compression from scratch using only numpy.
+## This notebook consist of implementation of K-mean clustering algorithm in image compression from scratch using only numpy library.
 
 **Algorithm Used:** K-mean Clustering
 **No. of Clusters:** 16
